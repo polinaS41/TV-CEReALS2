@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+	color: white;
+}
+div img{
+	height: 55px;
+	width: 55px;
+}
+section{
+	width: 900px;
+	display: flex;
+	margin-bottom: 100px;
+}
+div{
+	margin-left: 100px;
+}
+iframe{
+	margin-bottom: 100px;
+}
+a{
+	color: black;
+	border-radius:10px ;
+	background-color: white;
+	padding: 10px;
+	font-size: 30px;
+	text-decoration: none;
+	position: relative;
+	left: 88%;
+	bottom: 20%;
+
+}
+h1{
+	font-family: cursive;
+	font-size: 50px;
+}
+p{
+	font-size: 25px;
+}
